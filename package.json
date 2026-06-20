@@ -1,0 +1,23 @@
+{
+  "name": "isosynch",
+  "version": "1.0.0",
+  "description": "A task management system web application for Information Security Organization - De La Salle University Manila",
+  "homepage": "https://github.com/janlmnop/ISOSynch#readme",
+  "bugs": {
+    "url": "https://github.com/janlmnop/ISOSynch/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janlmnop/ISOSynch.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
